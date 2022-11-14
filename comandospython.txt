@@ -1,0 +1,13 @@
+var.append - vai adicionar um elemento a lista
+var.insert - vai adicionar em uma posição especifica
+del.var - vai eliminar um elemento pela posição
+var.pop - vai eliminar o elemento pela posição
+var.remove vai eliminar o elemento pelo contéudo dentro da lista
+var.count - contar o número de elementos na lista 
+var.index - vai verificar em qual posição o elemento está
+var.sort - vai ordenar os valores dentro da lista
+var = list() = criar lista
+var = [x,x] = criar lista
+var.sort(reverse=True) = vai ordenar de ao contrário
+len(valores) = vai contar o número de valores da lista
+enumarete = posição e valor da lista

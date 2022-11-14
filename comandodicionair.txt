@@ -1,0 +1,5 @@
+del = eliminar elemento
+var.values() - mostrar o elemento
+var.keys() - mostrar a chave
+var.items() - mostrar tudo
+.copy() - para fazer a copia das listas
